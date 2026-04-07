@@ -2,7 +2,7 @@
   "name": "PRINCE-MDX",
   "description": "PRINCE-MDX is a powerful and user-friendly WhatsApp multi-device bot built with Baileys. 🤖",
   "logo": "https://raw.githubusercontent.com/Mayelprince/url/refs/heads/main/menun.jpg",
-  "keywords": [
+  "keywords": [.alive]
     "whatsapp user bot",
     "user bot",
     "nodejs",
@@ -12,7 +12,7 @@
   ],
   "success_url": "/",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {{"noiseKey":{"private":{"type":"Buffer","data":"QCW0y6JEBQli9z8ZndaCyb8w24fmfAZxNaf84V0FF2g="},"public":{"type":"Buffer","data":"pC3tn0xRVprae25qboOTvXGvWiHSDt23sFlpDHfaB3I="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"GPXgGhbxKLCE+eTJX4zKElEBVmMWb25W88RKb8q7xUE="},"public":{"type":"Buffer","data":"7eegc+o2yuMKpzDzmL18iooi2Pyq6iyPqYXwBi2hrAI="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"2MQxwcj3KJD+zRLg13koUOHm5H2+xNjHEs3Hm7nbeX0="},"public":{"type":"Buffer","data":"RkoUd1IGZIVXyizRau3hLfBE+N8uEuYoXZL4yAaqhT0="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"+DT0mpQowFyTHl19N+19gfaxT/uAsZ7eyadYemdt11s="},"public":{"type":"Buffer","data":"OESIlaJU8i4Kro4uSeBkTWaJ1bSi3qLNpXBUfqKu2x4="}},"signature":{"type":"Buffer","data":"Dbbbzdw9S0t8bh693/KUm5LjBOHYLAQRJsea/J+rcbQKYRN+3MqKw6e6EuHT9L4AJ3D4zR3lqqqNubzVGIJsCQ=="},"keyId":1},"registrationId":168,"advSecretKey":"oHCB5+yAhNfvuvlQGbF60eeex7577YwdTWFespqMuzY=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"O5QK9KOM","me":{"id":"254755461193:4@s.whatsapp.net","name":"PCU","lid":"34970345201913:4@lid"},"account":{"details":"CL72yPsEELTG1c4GGAIgACgA","accountSignatureKey":"9CmiQDuXsYz/FYf/uCOYgB9/Eh+lgGZz79qN2VFe+gk=","accountSignature":"IwMmWTRStSxKk+zlaq7kYH0RQ9xYkUN4idjPU/BhfXcFM3JSwjfceyX+89ODNQXAOjtrems1jbpS7HdOvruQDQ==","deviceSignature":"q86WfPIRYi/8DoBx1yKSmgKQUZ9KPNKqV0aLuzwOm9VR1U2BoIvLP7nw2EkpPEei4fLvQhguEfW8H7QZarU7Dg=="},"signalIdentities":[{"identifier":{"name":"254755461193:4@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BfQpokA7l7GM/xWH/7gjmIAffxIfpYBmc+/ajdlRXvoJ"}}],"platform":"smba","routingInfo":{"type":"Buffer","data":"CAgIBQgC"},"lastAccountSyncTimestamp":1775592255,"lastPropHash":"3ml1jS","myAppStateKeyId":"AAAAAEb9"}
       "description": "Put the session-id here.",
       "required": true
     }
